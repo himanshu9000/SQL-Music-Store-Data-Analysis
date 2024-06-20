@@ -11,7 +11,8 @@
 
 ## **Schema- Music Store Database**
 
-![image](https://github.com/himanshu9000/Music-Store-Analysis/assets/111194171/b3989c94-93cb-4fc5-81fd-d98b01d86f7b)
+![MusicDatabaseSchema](https://github.com/himanshu9000/SQL-Music-Store-Data-Analysis/assets/111194171/4f85d255-a018-479c-8448-f9e7be44a557)
+
 
 
 
